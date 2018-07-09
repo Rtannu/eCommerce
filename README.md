@@ -26,3 +26,37 @@ This repository contains following files-
 18. results.php- This file contains logic to search any book.
 19. my_account.php- This file contains logic to view account of any customer.
 20. Projectreport.pdf- This is report of project(eCommerce).
+
+## Usage
+- Clone the repository-
+
+```
+   git clone https://github.com/Rtannu/eCommerce.git
+```
+- 2nd step to install XMPP server
+- 3rd step to start XMPP server
+ ```
+   open terminal and type-sudo /opt/lampp/lampp start(for linux)
+   ex-rrajcoder@rrajcoder-Inspiron-3543:~$ sudo /opt/lampp/lampp start
+```
+- 4th step to put downloaded project(eCommerce) in htdocs folder
+ ```
+   path of htdocs(in linux)- /opt/lampp
+```
+
+  
+  ex-
+  
+  ```
+   /opt/lampp/htdocs/eCommerce
+```
+## Results
+### Sample Image 1
+  ![Screenshot1](https://github.com/Rtannu/snakeGame/blob/master/Screenshot1.png)
+  
+### Sample Image 2
+  ![Screenshot2](https://github.com/Rtannu/snakeGame/blob/master/Screenshot2.png)
+  
+  
+  
+

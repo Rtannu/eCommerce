@@ -51,11 +51,35 @@ This repository contains following files-
    /opt/lampp/htdocs/eCommerce
 ```
 ## Results
-### Sample Image 1
-  ![Screenshot1](https://github.com/Rtannu/snakeGame/blob/master/Screenshot1.png)
+### Home page
+  ![home page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/home_page.png)
   
-### Sample Image 2
-  ![Screenshot2](https://github.com/Rtannu/snakeGame/blob/master/Screenshot2.png)
+### Customer login page
+  ![Customer login page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/customer_login_page.png)
+ 
+### Home page
+  ![Registration page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Registration_page.png)
+  
+### Customer account page
+  ![Customer account page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Customer_Account_page.png)
+  
+### Cart page
+  ![Cart page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Cart_page.png)
+  
+### Customer account page
+  ![Customer account page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Customer_Account_page.png)  
+
+### Contact us page
+  ![Contact us page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Contact_us_page.png)
+  
+### Admin login page
+  ![admin login page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/admin_login_page.png)  
+
+### Admin account page
+  ![admin account page](https://github.com/Rtannu/eCommerce/blob/master/website_pages/Admin_account_page.png) 
+  
+  
+  
   
   
   
